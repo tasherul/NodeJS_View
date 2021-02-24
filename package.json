@@ -1,0 +1,27 @@
+{
+  "name": "nodejs_view",
+  "version": "1.0.0",
+  "description": "view rest api data",
+  "main": "application.js",
+  "scripts": {
+    "test": "api ",
+    "start": "nodemon server.js"
+  },
+  "keywords": [
+    "api",
+    "node",
+    "js"
+  ],
+  "author": "tasherul islam",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "nvm": "^0.0.4",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
