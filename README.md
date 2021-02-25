@@ -49,27 +49,26 @@ now you can show the view page
 this ejs page you can find repositories (views/index.ejs)
 this 1 page will show all data at same time
 
-    -----------------------------------
+
     * 1. Loging form
     * 2. View Questions
     * 3. Create Questions
     * 4. Edit Questions (also change IsActive)
     * 5. Delete Questions
     * 6. Logout System
-    -----------------------------------
+   
 
 This index.ejs page are full working HTML and Jquery/Javascript 
 
 CDN use
-    ----------------------------------
+    
     use Sweetalerts2 
     use datatable
     use bootstrap 
-    ----------------------------------
 
 first run #nodejsapi (https://github.com/tasherul/NodeJS_API)
-
-#run and check the system [before run #nojejsapi]
+        
+       #run and view the system [before run #nojejsapi]
 
 #thank you 
 
