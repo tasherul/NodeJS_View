@@ -70,7 +70,7 @@ first run #nodejsapi (https://github.com/tasherul/NodeJS_API)
         
        #run and view the system [before run #nojejsapi]
        
-UserID & Password
+Login System for View 
         
         1st User
             
@@ -81,6 +81,11 @@ UserID & Password
             
             Username: user2
             Password: 123456
+
+for video you can see and check how to install
+
+        https://drive.google.com/file/d/1VF6MDHuJUpBl01-Aq_gne1zUeFkWFbvh/view?usp=sharing
+
 
 #thank you 
 
