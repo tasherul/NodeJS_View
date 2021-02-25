@@ -69,6 +69,18 @@ CDN use
 first run #nodejsapi (https://github.com/tasherul/NodeJS_API)
         
        #run and view the system [before run #nojejsapi]
+       
+UserID & Password
+        
+        1st User
+            
+            Username: user1
+            Password: 123456
+            
+        2nd User
+            
+            Username: user2
+            Password: 123456
 
 #thank you 
 
